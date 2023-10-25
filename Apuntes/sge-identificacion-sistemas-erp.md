@@ -29,7 +29,7 @@ Es decir, es un sistema de gestión empresarial integrada.
 
 *PDTE referencias, más allá de Odoo*
 
-## CRM
+## CRM (Entra en el examen)
 CRM = *Customer Relationship Management* es una parte concreta de un ERP
 (o a veces separada) que se centra exclusivamente en los clientes. Suele 
 permitir la gestión de datos de clientes (nombre, dirección, contacto...),
